@@ -1,11 +1,3 @@
-/**
- * Copyright (c) 2017-present, Liu Jinyong
- * All rights reserved.
- *
- * https://github.com/huanxsd/MeiTuan  
- * @flow
- */
-
 import { urlByAppendingParams } from './tool'
 
 const kFirstPage = 1
